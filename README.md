@@ -118,9 +118,5 @@ Este proyecto se encuentra bajo licencia MIT.
 Creado por Steven Martínez ✨
 Ingeniero de Sistemas
 
-markdown
-Copiar código
-
----
 
 
